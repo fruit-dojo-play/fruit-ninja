@@ -2,6 +2,14 @@
 
 一个无需安装的 HTML 水果切割小游戏，由GPT-6 Astra制作，支持电脑鼠标和手机触控。
 
+## 在线游玩
+
+**[点击开始游戏](https://fruit-dojo-play.github.io/fruit-ninja/)**
+
+分享给朋友的完整网址：https://fruit-dojo-play.github.io/fruit-ninja/
+
+无需登录 GitHub，手机和电脑均可直接打开。请保留网址中的 `/fruit-ninja/` 路径；旧个人账号下的网址已停用。
+
 ## 玩法
 
 - 按住鼠标拖动，或用手指滑动切水果。
@@ -20,4 +28,3 @@
 在仓库的 **Settings → Pages** 中，选择 **Deploy from a branch**，分支选 **main**，目录选 **/(root)**，保存并等待部署完成。
 
 全部游戏代码、图形和音效都包含在 `index.html` 中。
-
